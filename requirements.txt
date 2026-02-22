@@ -1,0 +1,17 @@
+# Azure OpenAI SDK
+openai>=1.0.0
+
+# Environment variable management
+python-dotenv>=1.0.0
+
+# PDF processing
+PyPDF2>=3.0.0
+
+# Numerical operations (for cosine similarity)
+numpy>=1.24.0
+
+# Web UI (optional - for Streamlit app)
+streamlit>=1.28.0
+
+# Testing
+pytest>=7.0.0
